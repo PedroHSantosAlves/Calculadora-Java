@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
+/
  * Calculadora de console simples.
  * Faz soma, subtração, multiplicação, divisão e potência,
  * trata erros de digitação e guarda um histórico das operações.
