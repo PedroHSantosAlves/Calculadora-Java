@@ -16,7 +16,7 @@ Nenhuma dependência externa
 
 Exemplo de uso
 
-======================================
+
 === CALCULADORA EM JAVA ===
 
 Escolha uma opção:
